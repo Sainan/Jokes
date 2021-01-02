@@ -1,0 +1,22 @@
+[
+	{
+		"setup": "Knock knock.\nWho's there?\nA broken pencil.\nA broken pencil who?",
+		"punchline": "Never mind. It's pointless."
+	},
+	{
+		"setup": "Knock knock.\nWho's there?\nCows go.\nCows go who?",
+		"punchline": "No, cows go moo."
+	},
+	{
+		"setup": "Knock knock.\nWho's there?\nLittle old lady.\nLittle old lady who?",
+		"punchline": "I didn't know you could yodel!"
+	},
+	{
+		"setup": "Knock knock.\nWho's there?\nOpportunity.",
+		"punchline": "That is impossible. Opportunity doesn’t come knocking twice!"
+	},
+	{
+		"setup": "Knock knock.\nWho's there?\nHatch.\nHatch who?",
+		"punchline": "Bless you!"
+	}
+]

@@ -1,0 +1,11 @@
+{
+	"name": "sainan/jokes",
+	"type": "library",
+	"homepage": "https://github.com/Sainan/Jokes",
+	"license": "Unlicense",
+	"autoload": {
+		"psr-4": {
+			"Sainan\\Jokes\\": "src/"
+		}
+	}
+}
