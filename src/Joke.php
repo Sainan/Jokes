@@ -5,7 +5,7 @@ class Joke
 	public $setup;
 	public $punchline;
 
-	function __construct($setup, $punchline)
+	function __construct(string $setup, string $punchline)
 	{
 		$this->setup = $setup;
 		$this->punchline = $punchline;
