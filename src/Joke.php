@@ -2,10 +2,14 @@
 namespace Sainan\Jokes;
 class Joke
 {
-	function __construct(
-		public string $setup,
-		public string $punchline,
-	) {}
+	public $setup;
+	public $punchline;
+
+	function __construct($setup, $punchline)
+	{
+		$this->setup = $setup;
+		$this->punchline = $punchline;
+	}
 
 	function __toString() : string
 	{
